@@ -1,12 +1,9 @@
-#+TITLE: Sitemap
+#+TITLE: My Exercism.io Solutions
 
-   + _site
-     + [[file:_site/README.org][README]]
    + erlang
      + bob
        + [[file:erlang/bob/index.org][Exercism.io → Erlang → Bob]]
    + haskell
      + leap
        + [[file:haskell/leap/index.org][Exercism.io → Haskell → Leap]]
-   + org
-     + [[file:org/setup.org][setup]]
+     + [[file:haskell/index.org][Exercism.io → Haskell]]
