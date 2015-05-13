@@ -4,6 +4,8 @@
      + bob
        + [[file:erlang/bob/index.org][Exercism.io → Erlang → Bob]]
    + haskell
+     + accumulate
+       + [[file:haskell/accumulate/index.org][Exercism.io → Haskell → Accumulate]]
      + leap
        + [[file:haskell/leap/index.org][Exercism.io → Haskell → Leap]]
      + [[file:haskell/index.org][Exercism.io → Haskell]]
