@@ -8,4 +8,6 @@
        + [[file:haskell/accumulate/index.org][Exercism.io → Haskell → Accumulate]]
      + leap
        + [[file:haskell/leap/index.org][Exercism.io → Haskell → Leap]]
+     + rna-transcription
+       + [[file:haskell/rna-transcription/index.org][Exercism.io → Haskell → RNA Transcription]]
      + [[file:haskell/index.org][Exercism.io → Haskell]]
