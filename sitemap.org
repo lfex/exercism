@@ -10,4 +10,6 @@
        + [[file:haskell/leap/index.org][Exercism.io → Haskell → Leap]]
      + rna-transcription
        + [[file:haskell/rna-transcription/index.org][Exercism.io → Haskell → RNA Transcription]]
+     + sublist
+       + [[file:haskell/sublist/index.org][Exercism.io → Haskell → Sublist]]
      + [[file:haskell/index.org][Exercism.io → Haskell]]
