@@ -6,6 +6,8 @@
    + haskell
      + accumulate
        + [[file:haskell/accumulate/index.org][Exercism.io → Haskell → Accumulate]]
+     + gigasecond
+       + [[file:haskell/gigasecond/index.org][Exercism.io → Haskell → Gigasecond]]
      + grains
        + [[file:haskell/grains/index.org][Exercism.io → Haskell → Grains]]
      + leap
