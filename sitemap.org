@@ -17,3 +17,6 @@
      + sublist
        + [[file:haskell/sublist/index.org][Exercism.io → Haskell → Sublist]]
      + [[file:haskell/index.org][Exercism.io → Haskell]]
+   + scheme
+     + grains
+       + [[file:scheme/grains/index.org][Exercism.io → Scheme → Grains]]
